@@ -1,5 +1,5 @@
 const URI = {
-    base: "https://serviciobecariochh-app.herokuapp.com/",
+    base: "https://serviciobecariochh.herokuapp.com/",
     routes: {
         getMaestros: "api/maestros",
         postPreference: "api/newMaestro",

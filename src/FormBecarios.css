@@ -1,0 +1,41 @@
+.btnDivEnviar{
+    align-items: center;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.btnEnviar{
+    background-color: rgb(47, 104, 190);
+    color:white;
+
+}
+.titleServ{
+    text-align: center;
+    font-weight: bold;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    padding: 15px;
+}
+.titleAlumnos{
+    text-align: center;
+    font-weight: bold;
+    margin-top:20px;
+    color:rgb(47, 104, 190);
+}
+.titleColab{
+    margin-top: 15px;
+    font-weight: bold;
+    color:rgb(47, 104, 190);
+}
+.lbl{}
+.input{
+    width: 50%;
+}
+.inputgg{
+    border:2px solid black;
+    margin-top: 10px;;
+}
+.titleSuccess{
+    margin-top: 300px;
+    text-align: center;
+}
